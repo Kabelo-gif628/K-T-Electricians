@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.K&T Electricians.com/sitemap.xml
